@@ -19,7 +19,7 @@
 - Tensorflow with Keras
 - NVIDIA A100 GPU on Colab
 
-### **Project Available here :  [Notebook](notebooks/convolute.ipynb>)**
+### **Project Available here :  [Notebook](notebooks/convolute.ipynb)**
 
 ## Summary of Results :
 - VGG16 architecture (15 layers, 75 training epochs) achieved 90.05% accuracy on test data with loss 0.317.
