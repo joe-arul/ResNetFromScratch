@@ -1,7 +1,8 @@
-# Convolute (Exploring Image Recognition concepts using ConvNets)
+# Convolute 
+### (Exploring Image Recognition concepts using ConvNets, training ResNet architecture from scratch)
 
 ## Purpose of the Project
-- Train a deep neural network model that recognizes images in a CIFAR10 dataset
+- Train several deep neural network models that recognizes images in a CIFAR10 dataset
 - Test ConvNet hyperparameters 
 - Explore techniques to better model accuracy on image data
 - Achieve high accuracy on CIFAR10 in deep learning class competition at USF (**Achieved highest in class - 90.05% on test set**)
@@ -18,6 +19,7 @@
 - Tensorflow with Keras
 - NVIDIA A100 GPU on Colab
 
+### **Project Available here :  [Notebook](notebooks/convolute.ipynb)**
 
 ## Summary of Results :
 - VGG16 architecture (15 layers, 75 training epochs) achieved 90.05% accuracy on test data with loss 0.317.
